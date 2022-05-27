@@ -107,7 +107,7 @@ class Pelicula {
   }
 }
 
-// ME FALTA COMPLETARLO
+// ME FALTA COMPLETARLO * 
 
 const pelicula = new Pelicula({
   id: 'gs1234567',
